@@ -1,0 +1,31 @@
+body {
+	background: black;  color: white;
+}
+
+/** grid **/
+#wrapper {
+	text-align: left;
+	width: 600px;
+	margin: 0 auto;
+}
+#stream-wrapper {
+	height: 320px;
+	border: 1px solid red;
+}
+
+.flash {
+	padding: 1em;
+}
+.notice {
+	border: 1px solid yellow;
+}
+.error {
+	border: 1px solid red;
+}
+
+form {
+	display: inline;
+}
+fieldset {
+	display: inline;
+}
